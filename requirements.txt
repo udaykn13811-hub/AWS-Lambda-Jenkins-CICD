@@ -1,1 +1,2 @@
 
+# Uses Python standard library and AWS Lambda runtime boto3.
